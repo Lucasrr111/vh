@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vivid.vividhub.workers.dev/loader.lua"))()
+loadstring(game:HttpGet("https://vividhub.dev/loader.lua"))()
